@@ -1,0 +1,4 @@
+tcod>=15.0.1
+numpy>=1.24.3
+opensimplex~=0.4.4
+tracery~=0.1.1
