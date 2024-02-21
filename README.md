@@ -1,5 +1,7 @@
 # roguelikeResearch
-Repository for summer roguelike research with <Anonymized>.
+Repository for summer roguelike research.
+
+Note, this repository is intended to be frozen as part of our ASEE NCS 2024 paper.  The work-in-progress repository may be found here: [https://github.com/TheSaucySerpent/roguelikeResearch](https://github.com/TheSaucySerpent/roguelikeResearch).
 
 This game was created over the course of the summer of 2023 through the <Anonymized> program. Its framework is based on the "Yet another Roguelike Tutorial" using Tcod, and any other significant changes that have been made are shown below. The game is a roguelike dungeon crawler that utilizes random text generation to assign the player a starting class and 3 different procedural generation techniques to generate the game's map. This game tasks the player with embarking on a quest to delve into the depths of the dungeon to duel the Grim Reaper and slay his henchmen to prevent having your soul harvested.
 
